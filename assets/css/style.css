@@ -1,0 +1,11 @@
+section{
+    background-image: url(https://www.w3schools.com/css/gradient_bg_vertical.png);
+    background-repeat: repeat-y;
+}
+
+article{
+    background-image: url(https://i.picsum.photos/id/83/200/300.jpg?hmac=avqtE9ZSAkPbFtYCXzxg4TeAA-fMWqX6jUQeWI_HjLc);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position: right;
+}
